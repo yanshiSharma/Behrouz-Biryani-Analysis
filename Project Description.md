@@ -99,10 +99,10 @@ Raw Excel Files (6 sheets)
 ## 📊 Dashboards
 
 ### Performance Overview Dashboard
-![Performance Overview](./performance-overview-dashboard.jpg)
+![Performance Overview](./Dashboards/performance-overview-dashboard.jpg)
 
 ### Customer Demographics Dashboard
-![Customer Demographics](./customer-demographics-dashboard.jpg)
+![Customer Demographics](./Dashboards/customer-demographics-dashboard.jpg)
 
 ---
 
